@@ -1,0 +1,15 @@
+# 1st input: enter height in meters e.g: 1.65
+height = input()
+# 2nd input: enter weight in kilograms e.g: 72
+weight = input()
+
+heightbmi = float(height)
+weightbmi = int(weight)
+
+bmi = weightbmi / heightbmi ** 2
+
+bmi_as_int = int(bmi)
+print(bmi_as_int)
+
+#this code converts the float decimal that is height and changes it into 
+#a integer so that it could be represented as a whole number.
