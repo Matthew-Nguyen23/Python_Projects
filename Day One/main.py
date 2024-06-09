@@ -1,3 +1,12 @@
+#Notes
+
+#print function shows a display of words
+#strings this is the "" and what is inside of those quotes
+#input function lets the user interact and type something in order to store into a var
+#variables are data stored into a variable that you make!
+#below on day one we see that this code introduces all of that and how it works!
+
+
 #1. Create a greeting for your program.
 print("Welcome to Random Band Generator")
 #2. Ask the user for the city that they grew up in.
